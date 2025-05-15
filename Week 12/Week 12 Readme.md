@@ -1,0 +1,1 @@
+Welcome to Week 12 - This Week I will be completing my final project and therefore completing 12 week full stack web dev challenge.

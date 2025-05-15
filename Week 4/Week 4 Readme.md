@@ -1,0 +1,1 @@
+Welcome to Week 4 - This Week I will be learning about Javascript, ObjectLoops, and TheDOM.

@@ -1,0 +1,1 @@
+Welcome to Week 9 - This week I will be learning about React, Style and State, and Rendering API Deployment.
