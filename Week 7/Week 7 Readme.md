@@ -1,1 +1,1 @@
-Welcome to Week 7 - This Week I shall be learning about NodeJS, NPM TDD, and Express.
+Welcome to Week 7 - This Week I shall be learning about NodeJS, NPM TDD, and Express
