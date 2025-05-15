@@ -1,1 +1,1 @@
-Welcome to Week 8 - This week I will be learning about SQL, ORM, and Auth.
+Welcome to Week 8 - This week I will be learning about SQL, ORM, and Auth
