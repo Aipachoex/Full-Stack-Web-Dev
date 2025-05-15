@@ -1,0 +1,1 @@
+Welcome to Week 2 - This week I'm going to dive deeper into CSS and learn about the Box Model, Advanced Elements and Flex Box
