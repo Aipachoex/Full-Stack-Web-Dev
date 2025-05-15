@@ -1,0 +1,1 @@
+Welcome to Week 1 - This is going to be me learning about how to use github and vscode along with introducing myself to HTML and CSS
