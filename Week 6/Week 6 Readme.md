@@ -1,1 +1,1 @@
-Welcome to Week 6 - In this Week I will be introducing myself to Python, concepts, and libraries
+Welcome to Week 6 - In this Week I will be introducing myself to Python, concepts, and libraries.
